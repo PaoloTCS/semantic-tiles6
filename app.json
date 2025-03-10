@@ -1,0 +1,27 @@
+{
+  "name": "Semantic Tiles",
+  "description": "A semantic document visualization tool",
+  "repository": "https://github.com/PaoloTCS/semantic-tiles3",
+  "keywords": ["flask", "python", "react", "semantic"],
+  "env": {
+    "SECRET_KEY": {
+      "description": "A secret key for verifying the integrity of signed cookies",
+      "generator": "secret"
+    },
+    "OPENAI_API_KEY": {
+      "description": "Your OpenAI API key for semantic processing",
+      "required": true
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "domains": {
+    "0abb8471-120c-46c1-b7de-b0a5278ad282": {
+      "id": "0abb8471-120c-46c1-b7de-b0a5278ad282",
+      "name": "Physics",
+      "description": "All of physics",
+      "parentId": null,
+      "children": [
+        "823c738d-f573-416d-9b94-658f2618124c",
+        "2a2baf89-2c2e-4350-918d-d6694dc1a86c"
+      ],
+      "documents": [
+        {
+          "id": "61149299-b4d8-43ce-adcb-9288f84479e7",
+          "name": "Classical-Physics.pdf",
+          "path": "documents/5f14aa9d-6019-4275-a38a-6e85e2868af0.pdf",
+          "type": "application/pdf",
+          "dateAdded": "2025-02-28T05:34:28.016793",
+          "description": "Basic physics"
+        }
+      ],
+      "x": 445.54029881134187,
+      "y": 323.54457323231566
+    },
+    "79c66e01-9cd9-4dfb-82cc-ae9dc49d51f0": {
+      "id": "79c66e01-9cd9-4dfb-82cc-ae9dc49d51f0",
+      "name": "Mathematics",
+      "description": "All Math subjects",
+      "parentId": null,
+      "children": [
+        "b705323e-fe6b-4a5f-a529-f1664d25f393",
+        "754aaa1e-ca60-423a-aba8-5e8624e91d57",
+        "ef8643e3-aab6-4ed3-8217-195e290a3946"
+      ],
+      "documents": [],
+      "x": 354.4664614622501,
+      "y": 276.4553608308134
+    },
+    "281b5ff1-ee6f-4420-89dc-35d4c2690957": {
+      "id": "281b5ff1-ee6f-4420-89dc-35d4c2690957",
+      "name": "History",
+      "description": "General History",
+      "parentId": null,
+      "children": [
+        "75e9b58f-6799-432f-9112-2d14beba7f22",
+        "a9a41413-4cc7-45cc-8b75-ceb05d462b3c",
+        "558d064e-8d1e-4cc5-9251-36fe6895c491"
+      ],
+      "documents": [],
+      "x": 439.41302379681576,
+      "y": 223.7649399836799
+    },
+    "75e9b58f-6799-432f-9112-2d14beba7f22": {
+      "id": "75e9b58f-6799-432f-9112-2d14beba7f22",
+      "name": "European History",
+      "description": "",
+      "parentId": "281b5ff1-ee6f-4420-89dc-35d4c2690957",
+      "children": [],
+      "documents": [
+        {
+          "id": "d08efbc1-195d-4655-a5e0-6cdbabefeffc",
+          "name": "Beethoven_Life.pdf",
+          "path": "documents/511a0f49-37fe-438d-84ff-d77096f6ac6c.pdf",
+          "type": "application/pdf",
+          "dateAdded": "2025-03-10T08:00:38.069898",
+          "description": ""
+        }
+      ],
+      "x": 342.49288662735484,
+      "y": 295.09946193980625
+    },
+    "b705323e-fe6b-4a5f-a529-f1664d25f393": {
+      "id": "b705323e-fe6b-4a5f-a529-f1664d25f393",
+      "name": "Calculus",
+      "description": "",
+      "parentId": "79c66e01-9cd9-4dfb-82cc-ae9dc49d51f0",
+      "children": [],
+      "documents": [
+        {
+          "id": "313234e3-4b25-4728-bd84-70cf97083778",
+          "name": "Calculus1.pdf",
+          "path": "documents/e32bcc21-d322-4a79-bdea-fef26f60ac45.pdf",
+          "type": "application/pdf",
+          "dateAdded": "2025-02-27T09:03:22.181103",
+          "description": ""
+        }
+      ],
+      "x": 454.44247140164913,
+      "y": 319.17549462696644
+    },
+    "8149b9b7-50e9-4457-a167-5830e0d33784": {
+      "id": "8149b9b7-50e9-4457-a167-5830e0d33784",
+      "name": "A.I.",
+      "description": "A.I. testing adding not only pdfs, but news",
+      "parentId": null,
+      "children": [
+        "48d4985e-bb09-4a05-84c5-109e04b7caf6"
+      ],
+      "documents": [],
+      "x": 360.5802159295922,
+      "y": 376.23512595319096
+    },
+    "754aaa1e-ca60-423a-aba8-5e8624e91d57": {
+      "id": "754aaa1e-ca60-423a-aba8-5e8624e91d57",
+      "name": "Linear Algebra",
+      "description": "",
+      "parentId": "79c66e01-9cd9-4dfb-82cc-ae9dc49d51f0",
+      "children": [],
+      "documents": [],
+      "x": 356.1746627537686,
+      "y": 337.5571080453127
+    },
+    "a9a41413-4cc7-45cc-8b75-ceb05d462b3c": {
+      "id": "a9a41413-4cc7-45cc-8b75-ceb05d462b3c",
+      "name": "American History",
+      "description": "",
+      "parentId": "281b5ff1-ee6f-4420-89dc-35d4c2690957",
+      "children": [],
+      "documents": [],
+      "x": 432.9902396280739,
+      "y": 252.64862697221318
+    },
+    "48d4985e-bb09-4a05-84c5-109e04b7caf6": {
+      "id": "48d4985e-bb09-4a05-84c5-109e04b7caf6",
+      "name": "Machine Learning",
+      "description": "",
+      "parentId": "8149b9b7-50e9-4457-a167-5830e0d33784",
+      "children": [],
+      "documents": [
+        {
+          "id": "98ae7978-bc4a-4e29-90f7-8a2b1b6d2be7",
+          "name": "BasicTrig.pdf",
+          "path": "documents/bfa9d693-9de6-4e56-b514-dee99c3832c4.pdf",
+          "type": "application/pdf",
+          "dateAdded": "2025-03-04T05:28:28.670319",
+          "description": ""
+        }
+      ],
+      "x": 640,
+      "y": 300
+    },
+    "558d064e-8d1e-4cc5-9251-36fe6895c491": {
+      "id": "558d064e-8d1e-4cc5-9251-36fe6895c491",
+      "name": "Middle East",
+      "description": "",
+      "parentId": "281b5ff1-ee6f-4420-89dc-35d4c2690957",
+      "children": [],
+      "documents": [
+        {
+          "id": "f3d01d51-76c4-4efd-af1a-0f447cfd0b78",
+          "name": "modern_mideast.pdf",
+          "path": "documents/36daa4c9-1545-4953-8ef6-8f78e52d9e90.pdf",
+          "type": "application/pdf",
+          "dateAdded": "2025-03-04T06:51:30.053119",
+          "description": ""
+        }
+      ],
+      "x": 424.5168737445714,
+      "y": 352.2519110879805
+    },
+    "823c738d-f573-416d-9b94-658f2618124c": {
+      "id": "823c738d-f573-416d-9b94-658f2618124c",
+      "name": "Classical Physics",
+      "description": "",
+      "parentId": "0abb8471-120c-46c1-b7de-b0a5278ad282",
+      "children": [],
+      "documents": [],
+      "x": 351.0308535879012,
+      "y": 290.0775205551696
+    },
+    "2a2baf89-2c2e-4350-918d-d6694dc1a86c": {
+      "id": "2a2baf89-2c2e-4350-918d-d6694dc1a86c",
+      "name": "Quantum Mechanics",
+      "description": "",
+      "parentId": "0abb8471-120c-46c1-b7de-b0a5278ad282",
+      "children": [],
+      "documents": [
+        {
+          "id": "4e79bcd5-e340-4bf1-bbb3-cdafbea0f0c0",
+          "name": "QuantumMechanics-MIT.pdf",
+          "path": "documents/d46ff20f-d68c-4906-acaf-932030dd9e0b.pdf",
+          "type": "application/pdf",
+          "dateAdded": "2025-03-04T08:08:30.850755",
+          "description": ""
+        }
+      ],
+      "x": 448.9691464120988,
+      "y": 309.92247944483034
+    },
+    "ef8643e3-aab6-4ed3-8217-195e290a3946": {
+      "id": "ef8643e3-aab6-4ed3-8217-195e290a3946",
+      "name": "Topology",
+      "description": "",
+      "parentId": "79c66e01-9cd9-4dfb-82cc-ae9dc49d51f0",
+      "children": [],
+      "documents": [],
+      "x": 389.3828658445822,
+      "y": 243.2673973277209
+    }
+  },
+  "rootDomains": [
+    "0abb8471-120c-46c1-b7de-b0a5278ad282",
+    "79c66e01-9cd9-4dfb-82cc-ae9dc49d51f0",
+    "281b5ff1-ee6f-4420-89dc-35d4c2690957",
+    "8149b9b7-50e9-4457-a167-5830e0d33784"
+  ]
+}
