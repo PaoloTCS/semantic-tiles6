@@ -1,0 +1,16 @@
+/frontend/node_modules
+/frontend/public
+/frontend/src
+/frontend/package-lock.json
+/venv
+/.git
+/.github
+/docs
+*.md
+*.pyc
+__pycache__/
+*.py[cod]
+*.so
+*.log
+.DS_Store
+Thumbs.db
